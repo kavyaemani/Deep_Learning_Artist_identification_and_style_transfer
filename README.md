@@ -35,9 +35,6 @@ This repository implements two projects using deep learning techniques:
 
 ## Dataset
 
-The projects use the **Best Artworks of All Time** dataset from Kaggle:
-[Best Artworks of All Time Dataset](https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time)
-
 - **Artist Metadata:** Provided in `artists.csv` containing artist names and painting counts.
 - **Images:** Full-sized images of artworks organized by artist folders.
 - **Filtering:** For artist identification, only 11 artists with ≥200 paintings were selected to ensure robust training and address data imbalance.
